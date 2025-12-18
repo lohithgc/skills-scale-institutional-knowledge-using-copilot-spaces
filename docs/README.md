@@ -21,6 +21,7 @@ Process documents in this folder
 - [Release & Deployment Guide](docs/octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](docs/octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](docs/octoacme-roles-and-personas.md)
+- [Project Meeting Notes Template](docs/project-meeting-notes-template.md)
 
 How to use these docs
 - Start with the Project Management Overview for the big picture.
