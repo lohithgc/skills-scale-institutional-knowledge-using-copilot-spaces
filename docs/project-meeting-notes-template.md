@@ -137,3 +137,18 @@ Items that came up but are out of scope for this meeting:
 - Include design artifacts and mockups in Notes & Context
 - Key Decisions should capture design choices and trade-offs
 - Action items typically include design iterations and validations
+
+### QA Review Meeting
+- Focus on test results, quality metrics, and bug triage
+- Key Decisions should include go/no-go for release or feature acceptance
+- Action items include bug fixes, test coverage improvements, and QA signoffs
+
+### DevOps Planning Session
+- Focus on infrastructure requirements, deployment strategy, and monitoring
+- Key Decisions should capture architecture choices and deployment windows
+- Action items include pipeline setup, environment configuration, and operational readiness tasks
+
+### Business Requirements Gathering
+- Focus on stakeholder needs, business processes, and acceptance criteria
+- Key Decisions should document requirement prioritization and scope boundaries
+- Action items include requirement documentation, validation sessions, and traceability mapping
