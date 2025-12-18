@@ -21,7 +21,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
-- Manual QA for feature acceptance when needed
+- Manual QA for feature acceptance when needed (coordinated by QA Lead)
+- Usability testing for user-facing features (coordinated with UX Designer)
+- Performance and load testing for high-traffic features (coordinated with DevOps)
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -36,5 +38,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 ## Execution Checklist
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
-- [ ] Regular demos scheduled
+- [ ] Regular demos scheduled (including UX and QA participation)
 - [ ] Risk register updated weekly
+- [ ] Cross-functional collaboration established (Dev, QA, UX, DevOps coordination)
+- [ ] QA testing integrated into sprint workflow
+- [ ] DevOps monitoring and alerting configured
+- [ ] Scrum ceremonies in place (if using Agile/Scrum)
